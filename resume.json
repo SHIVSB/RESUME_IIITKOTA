@@ -14,12 +14,12 @@
 		"profiles": [
 			{
 				"network": "Github",
-				"username": "handle",
+				"username": "SHIVSB",
 				"url": "https://www.github.com/SHIVSB/"
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
+				"username": "SHIVANSHU PANWAR",
 				"url": "https://www.linkedin.com/in/shivanshu-panwar-16b00820b/"
 			}
 		]
@@ -47,6 +47,5 @@
      {
 		"name": "Sports",
 		"keywords": ["Badminton","FootBall","Cricket"]
-	}],
-	"references": []
+	}]
 }
